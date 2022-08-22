@@ -1,6 +1,6 @@
 # FizzBuzz
 
-##Fizzbuzz Task
+## Fizzbuzz Task
 
 *When a user inputs a number
 *Loop from 1 to the entered number
