@@ -9,7 +9,7 @@
 * If the current number is divisible by 3 and 5 then print "FizzBuzz"
 * Otherwise print the current number
 
-## Practice
+## Practice/What I learned
 
 * More practice with if statements and its operators like "&&"
 * More practice with for loops
