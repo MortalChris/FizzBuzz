@@ -1,5 +1,7 @@
 # FizzBuzz
 
+* A javascript program that prints a number from 1 to whatever the user inputs in which multiples of three print “Fizz” and print “Buzz” for multiples of 5 and lastly print “FizzBuzz” for multiples of three and five.
+
 ## Fizzbuzz Task
 
 * When a user inputs a number
